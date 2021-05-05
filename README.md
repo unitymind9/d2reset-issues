@@ -1,5 +1,5 @@
 # d2reset-issues
-[resetde.ga](http://resetde.ga/) 이슈 포스팅용 레포지토리입니다.
+[d2reset.kr](http://d2reset.kr/) 이슈 포스팅용 레포지토리입니다.
 사이트에 건의할 점, 고쳐야 할 점, 사이트에 대한 질문 등등을 올려주세요. 
 
 ### 이슈 포스팅 방법
